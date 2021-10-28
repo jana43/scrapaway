@@ -1,0 +1,19 @@
+
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=zcompariz-21&marketplace=amazon&region=IN&placement=B08CKY5XX3&asins=B08CKY5XX3&show_border=true&link_opens_in_new_window=true&price_color=eb2150&title_color=000000&bg_color=ffffff&linkId=870323cac8d2365ee6a35b0eb16d0cd7">
+</iframe>
+
+<a target="_blank"  href="https://www.amazon.in/gp/product/B08CKY5XX3/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B08CKY5XX3&linkCode=as2&tag=zcompariz-21"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B08CKY5XX3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=zcompariz-21&linkId=870323cac8d2365ee6a35b0eb16d0cd7" ></a>
+
+
+<a target="_blank" href="https://www.amazon.in/gp/product/B08CKY5XX3/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B08CKY5XX3&linkCode=as2&tag=zcompariz-21&linkId=870323cac8d2365ee6a35b0eb16d0cd7">Check out</a>
+
+
+
+f'<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=zcompariz-21&marketplace=amazon&region=IN&placement={ASIN}&asins={ASIN}&show_border=true&link_opens_in_new_window=true&price_color=eb2150&title_color=000000&bg_color=ffffff&linkId=870323cac8d2365ee6a35b0eb16d0cd7">
+</iframe>'
+
+f'<a target="_blank"  href="https://www.amazon.in/gp/product/{ASIN}/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN={ASIN}&linkCode=as2&tag=zcompariz-21"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN={ASIN}&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=zcompariz-21&linkId=870323cac8d2365ee6a35b0eb16d0cd7" ></a>'
+
+
+f'<a target="_blank" href="https://www.amazon.in/gp/product/{ASIN}/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN={ASIN}&linkCode=as2&tag=zcompariz-21&linkId=870323cac8d2365ee6a35b0eb16d0cd7">Check out</a>'
